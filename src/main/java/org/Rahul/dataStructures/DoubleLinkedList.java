@@ -1,6 +1,5 @@
 package org.Rahul.dataStructures;
 
-import java.util.Arrays;
 import java.util.HashSet;
 
 @SuppressWarnings("usused")

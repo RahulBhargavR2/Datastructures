@@ -1,5 +1,5 @@
 
-package dataStructures;
+package org.Rahul.dataStructures;
 
 @SuppressWarnings("unused")
 
